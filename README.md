@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Lilmrmagoo, A quick learner with a passion for programming. I'm currently a software development student
+ I'm Lilmrmagoo, a software development student passionate about programming and creating things.
 ### Hobbies & Interests
 -  Virtual reality and related fields
 - 3D printing and hobby crafting
