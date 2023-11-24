@@ -1,4 +1,5 @@
-### Hi there 👋
+###Hi there 👋
+ I'm Lilmrmagoo, A quick learner with a passion for programming, virtual reality, machine learning, and 3d printing. 
 
 <!--
 **lilmrmagoo/lilmrmagoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
