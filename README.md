@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Lilmrmagoo, a software development graduate passionate about programming and creating things.
+ I'm Lilmrmagoo, a software developer passionate about programming and creating things.
 ### Hobbies & Interests
 -  Virtual reality and related fields
 - 3D printing and hobby crafting
